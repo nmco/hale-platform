@@ -456,6 +456,14 @@ platform {
 	bnd group: 'com.healthmarketscience.jackcess', name: 'jackcess', {
 		instruction 'Export-Package', "*;version=$version"
 	}
+
+	// Schematron
+	bundle 'org.opengis.cite:schema-utils:1.8', {
+		exclude group: 'com.thaiopensource', module: 'jing'
+		bnd {
+			optionalImport 'com.thaiopensource.validation'
+		}
+	}
 	
 }
 
