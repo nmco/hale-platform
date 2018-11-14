@@ -433,6 +433,9 @@ platform {
 	// typesafe configuration library
 	bundle group:'com.typesafe', name:'config', version:'1.2.1'
 
+	// mongodb driver
+	bundle group:'org.mongodb', name:'mongo-java-driver', version:'3.4.2'
+
 	merge {
 		// merged bundle for javax.annotation packages
 		// because otherwise only one fragment seems to be used to provide

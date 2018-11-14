@@ -264,38 +264,38 @@
             }
         },
         "com.haleconnect.api.haleconnect-bucket-api": {
-            "1.0.1": {
-                "i20170517": "LSsuw"
-            },
             "1.0.1.SNAPSHOT": {
                 "i20170428": "LSsuw"
+            },
+            "1.0.1": {
+                "i20170517": "LSsuw"
             }
         },
         "com.haleconnect.api.haleconnect-project-api": {
-            "0.1.0": {
-                "i20170517": "Ausug"
-            },
             "0.1.0.SNAPSHOT": {
                 "i20170428": "Ausug"
+            },
+            "0.1.0": {
+                "i20170517": "Ausug"
             }
         },
         "com.haleconnect.api.haleconnect-projectstore-api": {
-            "1.0.0": {
-                "i20170517": "A2sug"
-            },
             "1.0.0.SNAPSHOT": {
                 "i20170428": "A2sug"
+            },
+            "1.0.0": {
+                "i20170517": "A2sug"
             }
         },
         "com.haleconnect.api.haleconnect-user-api": {
-            "1.0.2": {
-                "i20170517": "AWqsvA"
-            },
             "1.0.2.SNAPSHOT": {
                 "i20170428": "AWqsvA"
             },
             "1.0.0": {
                 "i20170316": "A2sug"
+            },
+            "1.0.2": {
+                "i20170517": "AWqsvA"
             }
         },
         "com.healthmarketscience.jackcess": {
@@ -1537,6 +1537,11 @@
                 "i20170105": "JHajw"
             }
         },
+        "org.mongodb.mongo-java-driver": {
+            "3.4.2": {
+                "i20170518": "hWNnXg"
+            }
+        },
         "org.objectweb.asm-4": {
             "4.1.0": {
                 "i20150402": "sgDEsw",
@@ -1994,8 +1999,10 @@
             "3.3.0": {
                 "i20170428": "zgsarA",
                 "i20170316": "sGWAoA",
+                "i201705180032": "4j4mMw",
                 "i20170418": "ejoakg",
-                "i20170517": "eoMFvA"
+                "i20170517": "eoMFvA",
+                "i20170518": "eoUFvA"
             }
         },
         "eu.esdihumboldt.hale.platform.cs3d-map": {
@@ -2014,7 +2021,8 @@
                 "i20170428": "HlPTkw",
                 "i20150511": "ZDfkgA",
                 "i20150402": "AQTTfQ",
-                "i20150413": "HlPTkw"
+                "i20150413": "HlPTkw",
+                "i20170518": "sHbjaw"
             }
         },
         "eu.esdihumboldt.hale.platform.resources": {
